@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "integracao-kps",
+  "private_key_id": "622017c1c2a19f0bdde1b47219318d05a9100c7b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCMwlZyFh2Omvyw\nkpg05NA8hVw4GviF59PBDjLSKXHq8G3/a8dMhelWoqqLCXUIaB/e8hJy5LXNfKZg\nhEnrlBaSFhNWXWEfBQxa2OcFi2wc8uRL4TdL4/bVspUMxmF8JZzvxq0CdxAZSTjz\nhGMmuIJ1eP+CIwLPxq+fBfzSo6lStDfl/Z8Y6siDbZrdMr1Vl22OTfM5ckQTboZ0\naZWLdMhb2+6TgMfgqirgmBwvj/w5B9QTuAhesPnk6dB1o1dwH6WBFutpKWTJ+ZFr\nVCrENeT6vMo5vk2s7+iU0rL1fU8iScl99GX8tA+JCIBnagjgzseR/4ZzI+yvSXUE\nikbfyFJDAgMBAAECggEAJwpLsa7imcfw6ARwxNLl0rNmZYVNgs5O1A/dFp86ImB3\nEc3R5C6MDmRlitSfqio/FLXtWgKHTiwRdVmbqwRS0kffKygRJOpgh937DXWjEdBo\nc4dOr/TVZGX4oyduqGFCStq+550gUPMXIauJWJb6UBy0OWL+h6Ri12dwvPd5oh9C\nr0Pthyw410VMY4wsEFtuzHOXjfVeQJzqw0XQWimWX5pQNJpwOI5hGjQXGVn3aARd\ne6yPO8pDf4si8wo47S/cnbqUn0BbbZ5C7e5Ph2y8X9AfFsdVnq623fFKypb/dx6L\n0wKNN1PxLR57wRqG7IeygQtZ4vwYKp5B3oFpm8umIQKBgQDGRdhavaue8F7LarNq\ntR5hKY+COps9RV+IxUCIqhIlfAI10jl6AH3x8UhTubRWnZKgvPk5LDFH72ViVNYz\niLVBRL43CJRz2Q+4r5QTDSLAGJZwhPu4G58r0fC5r5svOx60EWWhYcGvCFS34Wqc\nrxBpcvjHvfx556tzyO7qqyyikQKBgQC1vb2vH7CtVbw+AbiUH3HdD0rbKjum4YF8\nhQcdIiSla7+kLgnCwbOAX5WeuVxDUS71OqI05BZxgCJxVjRVDOjS8IuKu+pD0v1q\nUHFqGDh7ngxIZgpHZxZv4gw6ieWIODS3vs0n3n15kiglFmiLEKb1w65pqlLv0bWS\n+YIJOKHpkwKBgQC8d7foyVJRinsRMSPK0s9F3JOlXsAhxcfB4n4tajxFlVMkhehM\nqBsP2CLAM03Q54dxczATwIY3sr/UcIAMDG7+07Fb7rPuSu4+x+chFONrZfPakQ4V\nO2xZ4v3IA7yncLMGx2KrvJi3IFwnTgZhWadoFPmWJGnSFv1K2j0ApCWRgQKBgCJV\ndylHZlxIryhTsOgizKMDiZO/9ccAITNB+mcRlTS/F1RP8j4d0+hzplN3FywMgT+I\n1S4CzQ6iM1+P9pD+wFlhYitSdt5bVM6p5dMyQjFwWUewJ0739bArVz4T4Q4L+EGi\nRSW8DZ5S80yWYCetfK0/S4rgx4xQ5OmgQ2W0kjoLAoGAcsLdhtK0znKJq6nNDrYL\n2sjQLnFxsv5sOIRGkWo6/r6lP9eHEauEAicvu/ih+dGDDzV29Q2eZ+xRklM5R4IA\nl8i5D4Dkl+m2VeH8CEYo3eCVljrajz5wpMJhsVrOwaqMGy4lW2n0gDnV7Umm6psY\nkFfZwcj01lvIbqFziNTFYzQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tabela-kps@integracao-kps.iam.gserviceaccount.com",
+  "client_id": "110599895128143160534",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tabela-kps%40integracao-kps.iam.gserviceaccount.com"
+}

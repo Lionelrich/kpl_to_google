@@ -1,0 +1,48 @@
+{
+    "idSheet":"1ESe-EvJ8l2T6UyHluPaW4yyiKY0h2UXEV6HeZVwwBAw",
+    "map":{
+        "id_pedido":"NumeroDoPedido",
+        "dt_pedido":"PedidoWeb.Rows.DadosPedidoWeb.DataVenda",
+        "dt_faturado":"PedidoPagamento.Rows.DadosPedidoPagamentoWeb.DataPagamento",
+        "loja":"PedidoWeb.Rows.DadosPedidoWeb.CodigoUnidadeNegocio",
+        "canal":"PedidoWeb.Rows.DadosPedidoWeb.Canal",
+        "site":"PedidoWeb.Rows.DadosPedidoWeb.SubCanal",
+        "status":"StatusPedido",
+        "cliente":"PedidoWeb.Rows.DadosPedidoWeb.DestNome",
+        "sku":"PedidoItens.Rows.DadosPedidoItensWeb.CodigoProduto",
+        "produto":"PedidoItens.Rows.DadosPedidoItensWeb.NomeProduto",
+        "qtd":"PedidoItens.Rows.DadosPedidoItensWeb.Quantidade",
+        "frete":"PedidoWeb.Rows.DadosPedidoWeb.ValorFrete",
+        "valor_un":"PedidoWeb.Rows.DadosPedidoWeb.ValorPedido",
+        "total":"PedidoPagamento.Rows.DadosPedidoPagamentoWeb.ValorPago",
+        "transportadora":"PedidoWeb.Rows.DadosPedidoWeb.Transportadora",
+        "cidade":"PedidoWeb.Rows.DadosPedidoWeb.DestMunicipio",
+        "uf":"PedidoWeb.Rows.DadosPedidoWeb.DestEstado"
+    },
+    "dataFormats":{
+        "dt_pedido":{"from":"dmY H:i:s","to":"Y-m-d H:i:s"},
+        "dt_faturado":{"from":"dmY H:i:s","to":"Y-m-d H:i:s"}
+    },
+    "mapSql":{
+        "DT Pedido":"dt_pedido",
+        "DT Faturado":"dt_faturado",
+        "Loja":"loja",
+        "Canal":"canal",
+        "Site":"site",
+        "Pedido":"id_pedido",
+        "Status":"status",
+        "Cliente":"cliente",
+        "SKU":"sku",
+        "Produto":"produto",
+        "Qtd":"qtd",
+        "Frete":"frete",
+        "Valor Un":"valor_un",
+        "Total":"total",
+        "Transportadora":"transportadora",
+        "Cidade":"cidade",
+        "UF":"uf"
+    },
+    "diasExportar":90
+
+
+}
